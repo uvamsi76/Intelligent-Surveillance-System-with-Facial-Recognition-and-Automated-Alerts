@@ -1,7 +1,6 @@
 # mini-project-face-recognition-
 
-#face recognition
-monitoring system efficient by adding face
+# Face recognition monitoring system efficient by adding face
 recognition and motion detection to it
 
 It activates buzzer when
