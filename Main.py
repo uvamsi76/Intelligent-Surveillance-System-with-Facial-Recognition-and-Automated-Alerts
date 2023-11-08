@@ -10,7 +10,7 @@ from twilio.rest import Client
 from sendemail import *
 from capturevideo import *
 from call import * 
-from fr import *
+from facerecognition import *
 from buzzer import *
 #*********************************************** GPIO setup *************************************************
 GPIO.setwarnings(False)
